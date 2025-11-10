@@ -40,4 +40,4 @@ By 2021, most S&P 500 firms recovered from the 2020 downturn, showing:
 ---
 
 **Author:** Leonardo Gama  
-**LinkedIn:** [linkedin.com/in/Leomgama]([https://linkedin.com/in/leogama)](https://www.linkedin.com/in/leonardo-gama-a99648279/)
+**LinkedIn:** [linkedin.com/in/Leomgama]([https://linkedin.com/in/leogama)] (https://www.linkedin.com/in/leonardo-gama-a99648279/)
