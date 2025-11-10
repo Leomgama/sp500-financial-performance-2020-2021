@@ -39,5 +39,11 @@ By 2021, most S&P 500 firms recovered from the 2020 downturn, showing:
 
 ---
 
+## 📂 Data Source
+- Dataset used in this project:
+- [S&P 500 Financial Data (2020-2021)](https://www.kaggle.com/datasets/pierrelouisdanieau/financial-data-sp500-companies)
+- Provided by Kaggle under the CC BY-NC-SA 4.0 license. Data used strictly for educational and analytical purposes.
+
+
 **Author:** Leonardo Gama  
 **LinkedIn:** [linkedin.com/in/Leomgama](https://www.linkedin.com/in/leonardo-gama-a99648279/)
